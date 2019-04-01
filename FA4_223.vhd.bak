@@ -1,0 +1,13 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+Entity FA4_223 is
+
+
+end Entity;
+
+Architecture KDH of FA4_223 is
+
+begin
+
+end Architecture;
